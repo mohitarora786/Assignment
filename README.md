@@ -9,6 +9,7 @@ This project fetches and displays RSS feed data from the Times of India website 
 Make sure you have the following installed on your local machine:
 
 - PHP (version >= 7.x)
+- Laravel 11.0
 - Composer
 - Node.js and npm (optional, depending on your frontend setup)
 
