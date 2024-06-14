@@ -24,15 +24,16 @@ Make sure you have the following installed on your local machine:
 2. **Install Composer dependencies:**
   ```bash
 composer install
-
+```
 3. **Install NPM dependencies (optional):**
+
 npm install
 
 4. **Start the Laravel development server:**
 php artisan serve
 
  now application can access at http://127.0.0.1:8000.
-
+```bash
 
 Usage
 .Navigate to the URL where the application is running.
