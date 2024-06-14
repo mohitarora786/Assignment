@@ -47,7 +47,7 @@ Acknowledgments
 .Laravel Documentation: Laravel Docs
 .Times of India RSS Feed: Times of India RSS
 
-```csharp
+
 This README provides a comprehensive guide for setting up and using the Laravel RSS Feed Reader project. It includes prerequisites, installation steps, usage instructions, and acknowledgments. Adjustments can be made as needed!
 
 
