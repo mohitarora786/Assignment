@@ -33,21 +33,21 @@ php artisan serve
  now application can access at http://127.0.0.1:8000.
 
 
-***Usage***
-Navigate to the URL where the application is running.
-Use the search bar to filter by creator.
-Use the sorting dropdown to sort the feed items by creator or publication date.
+Usage
+.Navigate to the URL where the application is running.
+.Use the search bar to filter by creator.
+.Use the sorting dropdown to sort the feed items by creator or publication date.
 
-***Technologies Used***
-Laravel: PHP Framework for web artisans.
-cURL: For making HTTP requests to the RSS feed URL.
-Blade Templates: For displaying the RSS feed data in a clean, readable format.
+Technologies Used
+.Laravel: PHP Framework for web artisans.
+.cURL: For making HTTP requests to the RSS feed URL.
+.Blade Templates: For displaying the RSS feed data in a clean, readable format.
 
-***Acknowledgments***
-Laravel Documentation: Laravel Docs
-Times of India RSS Feed: Times of India RSS
+Acknowledgments
+.Laravel Documentation: Laravel Docs
+.Times of India RSS Feed: Times of India RSS
 
-
+```csharp
 This README provides a comprehensive guide for setting up and using the Laravel RSS Feed Reader project. It includes prerequisites, installation steps, usage instructions, and acknowledgments. Adjustments can be made as needed!
 
 
